@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+    
+}
+p {
+    font-weight: 400;
+    color: #434455;
+}
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+line-height: 1.07143;
+color: #fff;
+}
+h3 {
+    line-height: 1.2;
+    font-size: 20px;
+    color: #2e2f42;
+}
+button {
+    cursor: pointer;
+}
+ul {
+    list-style-type: none;
+}
+.header {
+    background-color: #fff;
+}
+
+.logo {
+    font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2e2f42;
+}
+.nav-list {
+    color: #2e2f42;
+}
+.contact-info a {
+    color: #434455;
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+}
+.contact-info a:hover {
+    color: #007BFF;
+    
+}
+
+.order-button {
+    border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+color: #fff;
+
+}
+.order-button:hover {
+    color: #ffcad4;
+    background: #6c77ff;
+}
+
