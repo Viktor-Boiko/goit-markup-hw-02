@@ -49,10 +49,7 @@ ul {
     text-decoration: none;
 }
 
-.nav-link:hover,
-.nav-link:focus {
-    color: #404bbf;
-}
+
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -92,11 +89,15 @@ ul {
     color: #434455;
     transition: color 0.3s;
 }
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+}
+
 .contact-link:hover,
 .contact-link:focus {
     color: #404bbf;
 }
-
 
 .intro-section {
     background-color: #2e2f42;
