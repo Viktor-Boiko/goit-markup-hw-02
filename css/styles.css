@@ -90,10 +90,7 @@ ul {
     transition: color 0.3s;
 }
 .nav-link:hover,
-.nav-link:focus {
-    color: #404bbf;
-}
-
+.nav-link:focus,
 .contact-link:hover,
 .contact-link:focus {
     color: #404bbf;
