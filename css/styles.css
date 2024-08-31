@@ -52,7 +52,6 @@ ul {
 .nav-link:hover,
 .nav-link:focus {
     color: #404bbf;
-
 }
 
 .logo {
@@ -60,7 +59,7 @@ ul {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
@@ -114,7 +113,7 @@ ul {
 
 .order-button {
     
-    background-color:#4D5AE5;
+    background-color: #4D5AE5;
     color: #ffffff;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
