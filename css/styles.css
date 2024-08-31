@@ -65,7 +65,7 @@ ul {
     text-decoration: none;
 }
 
-.logo-text {
+.logo-text-header {
     color: #2e2f42;
 }
 
@@ -111,7 +111,7 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.order-button {
+.order-btn {
     
     background-color: #4D5AE5;
     color: #ffffff;
@@ -217,5 +217,9 @@ ul {
     color: #f4f4fd;
     letter-spacing: 0.02em;
     font-size: 14px;
+}
+
+.logo-text-footer {
+    color: #f4f4fd;
 }
 
